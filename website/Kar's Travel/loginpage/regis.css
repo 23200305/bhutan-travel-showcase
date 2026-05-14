@@ -1,0 +1,41 @@
+body{
+    background-image: url(REGI.jpg);
+}
+
+.container{
+    width: 380px;
+    height: 500px;
+    background-color: darkslateblue;
+    text-align: center;
+    margin: auto;
+  
+}
+.input-nmae{
+    height: 25px;
+    width: 300px;
+    border: 1px solid blueviolet;
+    box-shadow: inset;
+}
+.text-name{
+    margin-top: 22px;
+}
+.radio-button{
+    margin-top: 22px;
+    
+}
+.date{
+    margin-top: 22px;
+}
+.country{
+    margin-top: 22px;
+}
+.check{
+    margin-top: 22px;
+}
+.input-name{
+    margin-top: 22px;
+}
+.button:hover{
+    background-color: blue;
+
+}
